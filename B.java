@@ -4,5 +4,6 @@ class Calculate{
    int a;
    a = 3+3-1; 
    print(a);
+   print("You call this math ?");
     }  
 } 
